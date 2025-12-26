@@ -1,4 +1,6 @@
 streamlit
+onnxruntime
+requests
 numpy
 pandas
 opencv-python-headless
